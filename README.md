@@ -11,7 +11,8 @@ This project simulates the work of a Deloitte data analyst across two practical 
 The project is intended for aspiring data analysts looking to understand how real consulting firms approach forensic technology, operational data analysis, and executive-ready dashboard delivery.
 
 🛠️ Tech Stack
-| Tool                             |  Purpose  |
+----------------
+| Tool                             |  Purpose                                                                          |
 ----------------------
 | 📊 Microsoft Excel              | Data cleaning, equality scoring formula, classification logic for pay gap analysis  |
 ----------------------
