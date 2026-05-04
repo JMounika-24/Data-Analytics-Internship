@@ -25,10 +25,14 @@ The project is intended for aspiring data analysts looking to understand how rea
 
 🗂️ Project Structure
 Data Analytics Internship/
+
 │
 ├── 📊 deloitte_second_task.xlsx       # Excel — gender pay equality analysis
+
 ├── 📈 daikibo-telemetry-data.twb      # Tableau workbook — machine health dashboard
+
 ├── 🖼️ dashboard_preview.png           # Dashboard screenshot
+
 └── 📄 README.md                       # Project documentation
 
 📂 Data Source
