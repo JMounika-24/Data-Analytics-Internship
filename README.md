@@ -42,20 +42,7 @@ daikibo-shenzhen
 Tracking unhealthy events per device type including LaserWelder, LaserCutter, HeavyDutyDrill, Furnace, ConveyorBelt, CNC, and more.
 Task 2 — Equality Data: Employee-level compensation dataset used to compute a fairness score and classify each job role as Fair / Unfair using Excel formulas.
 
-📊 Stage 1 — Excel: Gender Pay Equality Analysis
-Cleaned and structured the provided compensation dataset in Excel. Applied a calculated equality score column using conditional logic to classify each role:
 
-Score = 0 → classified as "Fair"
-Score ≠ 0 → classified as "Unfair"
-
-This analysis identified which job roles within Daikibo had pay disparities between male and female employees.
-
-📈 Stage 2 — Tableau: Machine Health Dashboard
-Built a two-sheet interactive Tableau dashboard on the daikibo-telemetry-data source:
-Sheet 1 — By Factory
-FactoryUnhealthy Eventsdaikibo-factory-meiyo~480 (highest)daikibo-factory-seiko~420daikibo-factory-berlin~115daikibo-shenzhen~20 (lowest)
-Sheet 2 — By Device Type
-DeviceUnhealthy EventsLaserWelder~480 (most critical)LaserCutter~430HeavyDutyDrill~70Furnace~20CNC, ConveyorBelt, AirWrench, MetalPress, SpotWelder<10 each
 
 💡 Business Impact & Insights
 
